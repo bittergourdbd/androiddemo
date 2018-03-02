@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         // Demo commit
         // Demo new branch
+        // Demo master
     }
 }
